@@ -1814,11 +1814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ciO\\Desktop\\Dotnet\\Xpay\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\ciO\\Desktop\\Dotnet\\Xpay\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\Users\\ciO\\Desktop\\Dotnet\\Xpay\\api\\api.csproj",
+      "projectPath": "C:\\Users\\ciO\\Desktop\\Dotnet\\Xpay\\api\\api.csproj",
       "packagesPath": "C:\\Users\\ciO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ciO\\Desktop\\Dotnet\\Xpay\\api\\obj\\",
+      "outputPath": "C:\\Users\\ciO\\Desktop\\Dotnet\\Xpay\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ciO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1828,6 +1828,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
