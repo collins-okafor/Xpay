@@ -84,7 +84,7 @@ namespace api.Controllers
                                                     <p>If you did not register with Xpay, please ignore this email.</p>");
 
                     // Send the email using the SendGrid client
-                    var sendGridClient = new SendGridClient(_configuration.GetSection("SendGrid:API_SENDGRID_KEY").Value);
+                    var sendGridClient = new SendGridClient(_configuration.GetSection("SendGrid:Api_Key").Value);
                     var response = await sendGridClient.SendEmailAsync(msg);
 
 

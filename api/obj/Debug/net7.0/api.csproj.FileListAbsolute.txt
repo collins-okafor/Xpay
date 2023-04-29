@@ -51,3 +51,4 @@ C:\Users\ciO\Desktop\Dotnet\Xpay\api\obj\Debug\net7.0\refint\api.dll
 C:\Users\ciO\Desktop\Dotnet\Xpay\api\obj\Debug\net7.0\api.pdb
 C:\Users\ciO\Desktop\Dotnet\Xpay\api\obj\Debug\net7.0\api.genruntimeconfig.cache
 C:\Users\ciO\Desktop\Dotnet\Xpay\api\obj\Debug\net7.0\ref\api.dll
+C:\Users\ciO\Desktop\Dotnet\Xpay\api\bin\Debug\net7.0\config.json
